@@ -371,7 +371,7 @@ ul {
     background-color: lightblue;
     padding-top: 52px;
     padding-bottom: 52px;
-    background-image: url('/img/imgbg.jpg') ;
+    background-image: url('./img/imgbg.jpg') ;
     background-repeat: no-repeat;
     background-size: cover;
 }
