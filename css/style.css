@@ -155,6 +155,11 @@ ul {
     height: 620px;
 }
 
+.slider--nav {
+    position: relative;
+    top: -60px;
+}
+
   /* Hide the images by default */
   .mySlides {
     display: none;
@@ -220,7 +225,7 @@ ul {
   }
   
   .active, .dot:hover {
-    background-color: #717171;
+    background-color: white;
   }
   
   /* Fading animation */
